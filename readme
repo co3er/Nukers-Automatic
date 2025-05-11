@@ -1,0 +1,37 @@
+# Co3er Nuker Bot 🔥
+
+A Discord bot created for testing purposes, which:
+- Deletes all channels
+- Spams new channels with messages and embeds
+- Changes server name and icon
+- Creates multiple roles
+- Bans all members (except a specific one)
+- Shows custom bot status
+
+> ⚠️ For **educational purposes** only. Do not use this bot on servers you do not own or have permission to test on. It violates [Discord ToS](https://discord.com/terms) if misused.
+
+---
+
+## 🔧 Features
+
+- Deletes all channels upon joining a server
+- Sends spam messages with an embed
+- Changes server name and avatar
+- Creates 20 roles
+- Bans everyone except one user
+- Spams messages indefinitely
+- Custom bot status: `Made by Co3er`
+
+---
+
+## 📸 Preview
+
+![Bot in action](https://media.discordapp.net/attachments/1369606480483057754/1371083594319138986/image.png?ex=6821d89a&is=6820871a&hm=82ad8983fc0079c6cbd1d19bf79d9e322d47b678d7a3ea2c4ef1f2643080dd16&=&format=webp&quality=lossless&width=550&height=307)
+
+---
+
+## 🚀 How to Use
+
+1. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
